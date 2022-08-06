@@ -1,0 +1,22 @@
+.tituloPrincipal{
+    color: rgba(18, 18, 28, 0.868);
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 5%;
+    color : white
+}
+
+.tituloCounterTodo{
+    color: rgba(113, 113, 177, 0.484);
+    font-size: 20px;
+    width: 80%;
+    text-align: center;
+    border: 3px solid black;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 5%;
+    color : white;
+    margin: 10px auto;
+}

@@ -1,0 +1,39 @@
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+    background-color: rgb(8, 9, 20);
+    border-radius: 20px;
+    margin: 10px 5px;
+    color: #ccc;
+}
+
+.completed{
+    margin:0px;
+    padding: 10px;
+}
+
+.completed-item{
+    color: green;
+}
+
+.completed:hover{
+    cursor: pointer;
+}
+
+.delete{
+    margin:0px;
+    padding: 10px;
+    color: gray
+}
+
+.delete:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.tachar{
+    text-decoration: line-through;
+}
